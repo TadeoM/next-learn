@@ -11,8 +11,6 @@ import {
 } from '@/app/ui/skeletons';
 
 const Page = async ()  => {
-
-
   return (
     <main>
       <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
